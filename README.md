@@ -1,4 +1,4 @@
-### Hi there, I'm Chinmay - aka [meenachinmay][https://twitter.com/meenachinmay12] 👋
+### Hi there, I'm Chinmay - aka [meenachinmay][twitter] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/meenachinmay12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmeenachinmay12&screen_name=meenachinmay12)
 
