@@ -68,7 +68,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  [![Meenachinmay's github stats](https://github-readme-stats.vercel.app/api?username=meenachinmay)](https://github.com/anuraghazra/github-readme-stats)
+  [![Meenachinmay's github stats](https://github-readme-stats.vercel.app/api?username=meenachinmay)](https://github.com/meenachinmay)
 
 </details>
 
