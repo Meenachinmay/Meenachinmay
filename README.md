@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a [Short graphql and reactjs course][https://github.com/Meenachinmay/react-graphql]!
 - 🌱 I’m currently learning frontend with reactjs and some sort of backend with everything 🤣
 - 👯 I’m looking to collaborate with other content creators but using reactjs 🤖
-- 🥅 2020 Goals: Get my N1 level japanese language certificate, learn reactjs and with nodejs, mongodb and graphql 🎆
+- 🥅 2021 Goals: Get my N1 level japanese language certificate, learn reactjs and with nodejs, mongodb and graphql 🎆
 - ⚡ Fun fact: I love to speak, listen, watch and read japanese and singing / writing (poems) 🎎
 
 ### Connect with me:
