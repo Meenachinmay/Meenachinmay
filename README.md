@@ -4,10 +4,10 @@
 
 ## I'm a Son, Brother, Software engineer, and Teacher!
 
-- 🔭 I’m currently working on a [Short graphql and reactjs course][https://github.com/Meenachinmay/react-graphql]!
-- 🌱 I’m currently learning frontend with reactjs and some sort of backend with everything 🤣
-- 👯 I’m looking to collaborate with other content creators but using reactjs 🤖
-- 🥅 2021 Goals: Get my N1 level japanese language certificate, learn reactjs and with nodejs, mongodb and graphql 🎆
+- 🔭 I’m currently working on a [my own startup😍][but it's private]!
+- 🌱 I’m currently learning everything in order to get my goal. 🤣
+- 👯 I’m looking to collaborate with other content creators for growing more. 🤖
+- 🥅 2022 Goals: Learn more japanese language, learn typescript, typeorm, typegraphql, postgres, apollo graphql server, mongodb and graphql 🎆
 - ⚡ Fun fact: I love to speak, listen, watch and read japanese and singing / writing (poems) 🎎
 
 ### Connect with me:
@@ -76,4 +76,4 @@
 [twitter]: https://twitter.com/meenachinmay12
 [youtube]: https://www.youtube.com/channel/UCj940L692xQtU-ngtFIqfNQ?view_as=subscriber
 [instagram]: https://www.instagram.com/meenachinmay/
-[linkedin]: https://www.linkedin.com/in/chinmay-%E3%83%81%E3%83%B3%E3%83%A1%E3%82%A4-anand-7a3b6394/
+[linkedin]: https://www.linkedin.com/in/chinmay-anand-7a3b6394/
