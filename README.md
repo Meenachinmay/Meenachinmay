@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a [my own startup😍][but it's private]!
 - 🌱 I’m currently learning everything in order to get my goal. 🤣
 - 👯 I’m looking to collaborate with other content creators for growing more. 🤖
-- 🥅 2022 Goals: Learn more japanese language, learn typescript, typeorm, typegraphql, postgres, apollo graphql server, mongodb and graphql 🎆
+- 🥅 2023 Goals: Learn more japanese language, learn typescript, typeorm, prisma, postgres, microservices, nodejs, reactjs, nextjs, css animation and game development with javascript🎆
 - ⚡ Fun fact: I love to speak, listen, watch and read japanese and singing / writing (poems) 🎎
 
 ### Connect with me:
