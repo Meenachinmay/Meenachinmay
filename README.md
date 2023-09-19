@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/meenachinmay12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmeenachinmay12&screen_name=meenachinmay12)
 
 ## I'm a Son, Brother, Software engineer, and Teacher!
-
+-    I'm currently learning Elixir and Phoenix framework. I am obsessed with real time systems.
 - 🔭 I’m currently working on a [my own startup😍][but it's private]!
 - 🌱 I’m currently learning everything in order to get my goal. 🤣
 - 👯 I’m looking to collaborate with other content creators for growing more. 🤖
