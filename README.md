@@ -47,7 +47,7 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to use Google Cloud Speech API in ANDROID STUDIO](https://youtu.be/-PQVz6ik0lM)
+- [Restarting Coding My Own tech-startup in Japan](https://youtu.be/-PQVz6ik0lM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCj940L692xQtU-ngtFIqfNQ/videos?view_as=subscriber)
