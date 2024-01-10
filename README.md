@@ -4,11 +4,11 @@
 
 ## I'm a Son, Brother, Software engineer, and Teacher!
 -    I'm currently learning Elixir and Phoenix framework. I am obsessed with real time systems.
-- 🔭 I’m currently working on a [my own startup😍][but it's private]!
+- 🔭 I’m currently working on a [my own startup😍][but it's public now]!
 - 🌱 I’m currently learning everything in order to get my goal. 🤣
 - 👯 I’m looking to collaborate with other content creators for growing more. 🤖
-- 🥅 2023 Goals: Learn more japanese language, learn typescript, typeorm, prisma, postgres, microservices, nodejs, reactjs, nextjs, css animation and game development with javascript🎆
-- ⚡ Fun fact: I love to speak, listen, watch and read japanese and singing / writing (poems) 🎎
+- 🥅 2024 Goals: Learn more japanese language, learn golang as my main backend language, kafka, docker. This is going to be my main tech stack for now.🎆
+- ⚡ Fun fact: I love to speak, listen, watch and read japanese and singing / writing (poems) ;
 
 ### Connect with me:
 
@@ -47,7 +47,7 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to use Google Cloud Speech API in ANDROID STUDIO](https://youtu.be/8BWOnoaQ_1M)
+- [How to use Google Cloud Speech API in ANDROID STUDIO](https://youtu.be/-PQVz6ik0lM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCj940L692xQtU-ngtFIqfNQ/videos?view_as=subscriber)
