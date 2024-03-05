@@ -42,7 +42,7 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Restarting Coding My Own tech-startup in Japan](https://youtu.be/-PQVz6ik0lM)
+- [Use Linear for Your Project management](https://youtu.be/Kccp6WJOJ34)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCj940L692xQtU-ngtFIqfNQ/videos?view_as=subscriber)
