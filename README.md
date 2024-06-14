@@ -1,6 +1,6 @@
 ### Hi there, I'm Chinmay - aka [sinkbackend][twitter] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/meenachinmay12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsinkbackend&screen_name=sinkbackend)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sinkbackend?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsinkbackend&screen_name=sinkbackend)
 
 ## I'm a Son, Brother, Software engineer, and Teacher!
 -    I'm currently learning golang and gRPC framework. I am obsessed with real time systems.
