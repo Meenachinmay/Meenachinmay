@@ -5,7 +5,7 @@
 ## I'm a Son, Brother, Software engineer, and Teacher!
 -    I'm currently learning golang and gRPC framework. I am obsessed with real time systems.
 - 🌱 I’m currently learning everything in order to get my goal. 🤣
-- 🥅 2024 Goals: Learn more japanese language, learn golang as my main backend language, kafka, docker. This is going to be my main tech stack for now.🎆
+- 🥅 2025 Goals: Learn more japanese language, Learn more advance Java and kotlin and contribute to my company in their success.🎆
 - ⚡ Fun fact: I love to speak, listen, watch and read japanese and singing / writing (poems) ;
 
 ### Connect with me:
