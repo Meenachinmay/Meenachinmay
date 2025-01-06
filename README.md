@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sinkbackend?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsinkbackend&screen_name=sinkbackend)
 
 ## I'm a Son, Brother, Software engineer, and Teacher!
--    I'm currently learning golang and gRPC framework. I am obsessed with real time systems.
+-    I'm currently learning advance Java and Kotlin and gRPC framework. I am obsessed with real time systems and concurrent systems.
 - 🌱 I’m currently learning everything in order to get my goal. 🤣
 - 🥅 2025 Goals: Learn more japanese language, Learn more advance Java and kotlin and contribute to my company in their success.🎆
 - ⚡ Fun fact: I love to speak, listen, watch and read japanese and singing / writing (poems) ;
