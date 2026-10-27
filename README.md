@@ -5,8 +5,8 @@
 ## I'm a Son, Brother, Software engineer, and Teacher!
 -    I'm currently learning advance Kotlin, Rust and gRPC framework. I am obsessed with real time systems and concurrent systems.
 - 🌱 I’m currently learning everything in order to get my goal. 🤣
-- 🥅 2025 Goals: Learn more japanese language, Learn Kotlin and contribute to my company in their success.🎆 and then make some time to learn Rust for my side projects.
-- ⚡ Fun fact: I love to speak, listen, watch and read japanese and singing / writing (poems) ;
+- 🥅 2027 Goals: Learn more japanese language, Learn Java and contribute to my company in their success.🎆 and then make some time to learn music for my interest.
+- ⚡ Fun fact: I love to stay silent most of the time, listening to others, and watching the sky and nature.
 
 ### Connect with me:
 
